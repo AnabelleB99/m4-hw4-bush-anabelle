@@ -18,7 +18,7 @@ nav a:hover {
     color: black;
   }
 
-/* Content */
+/* Copy */
   body {
     background-color: #fff0e0;
     margin: 0;
@@ -45,13 +45,19 @@ nav a:hover {
     margin: 12px;
   }
 
+  p, ul {
+    font-family: Tahoma, Verdana, sans-serif;
+    font-size: 14px;
+    margin: 12px;
+  }
+
+/* Images */
   img {
     display: block;
     margin-left: auto;
     margin-right: auto;
   }
 
-  
   div.gallery {
     margin: 12px;
     border: 1px solid #ccc;
@@ -75,13 +81,6 @@ nav a:hover {
     font-family: Tahoma, Verdana, sans-serif;
   }
 
-  
-  p, ul {
-    font-family: Tahoma, Verdana, sans-serif;
-    font-size: 14px;
-    margin: 12px;
-  }
-
 /* Footer */
   footer {
     display: block;
@@ -89,4 +88,3 @@ nav a:hover {
     width: 100%;
     float: left;
   }
-  
